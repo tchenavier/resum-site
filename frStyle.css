@@ -80,3 +80,9 @@
             display: block !important
         }
         /*Fin du Style qui etais sur le html*/
+        img.jeu
+        {
+            width: 10vh;
+            height: 6vh;
+
+        }
