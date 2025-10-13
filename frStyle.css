@@ -1,4 +1,4 @@
-       /*Style qui etais sur le html*/
+       /*Style qui etais sur le html de bootstrap*/
        .bd-placeholder-img {
            font-size: 1.125rem;
            text-anchor: middle;
@@ -80,7 +80,7 @@
            display: block !important
        }
 
-       /*Fin du Style qui etais sur le html*/
+       /*Fin du Style qui etais sur le html de bootstrap*/
        img.jeu {/*taille des illustration*/
            width: 10vh;
            height: 6vh;
