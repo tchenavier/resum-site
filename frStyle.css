@@ -81,13 +81,13 @@
        }
 
        /*Fin du Style qui etais sur le html*/
-       img.jeu {
+       img.jeu {/*taille des illustration*/
            width: 10vh;
            height: 6vh;
 
        }
 
-       img.drapeau {
+       img.drapeau { /*taille des lien vers les version traduite*/
            width: 7vh;
            height: 7vh;
 
